@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IsaacThaJunior
-- 👀 I’m interested in meeting people and tech
+- 👀 I’m interested in tech and meeting people
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on new projects involving html and css
+- 💞️ I’m looking to collaborate on new projects involving HTML, CSS and Javascript
 - 📫 How to reach me isaacjunez669@gmail.com
 
 <!---
