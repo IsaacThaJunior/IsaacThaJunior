@@ -25,7 +25,6 @@ A Frontend Software Engineer, Technical Writer & open-source contributor.
 - ⏳ GraphQL
 - ⏳ C/C++
 - ⏳ Python
-- 
 
 
 
