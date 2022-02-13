@@ -23,6 +23,11 @@ A Frontend Software Engineer, Technical Writer & open-source contributor.
 - ⏳ Typescript 
 - ⏳ Node.js   
 - ⏳ GraphQL
+- ⏳ C/C++
+- ⏳ Python
+- 
+
+
 
 ## Contact
 - [Linkedin](https://www.linkedin.com/in/isaacthajunior/)
