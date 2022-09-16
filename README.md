@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer, Technical writer and Open source contributor
 ---------------------------------------------------------------
 
-I am currently a Frontend Engineer and Technical writer with a deep focus on creating accessible pixel perfect designs, learning new technologies and also teaching what I know. I am intrigued by Python and currently learning it. I contribute to Open source from time to time
+I am currently a Frontend Engineer and Technical writer with a deep focus on creating accessible pixel perfect design, learning new technologies and also teaching what I know. I am intrigued by Python and currently learning it. I contribute to Open source from time to time
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [https://portfolio-for-isaac.netlify.app/](http://https://portfolio-for-isaac.netlify.app/)
