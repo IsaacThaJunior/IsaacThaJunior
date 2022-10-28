@@ -7,7 +7,7 @@ Software Engineer, Technical writer and Open source contributor
 I am currently a Frontend Engineer and Technical writer with a deep focus on creating accessible pixel perfect design, learning new technologies and also teaching what I know. I am intrigued by Python and currently learning it. I contribute to Open source from time to time
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [https://portfolio-for-isaac.netlify.app/](http://https://portfolio-for-isaac.netlify.app/)
+* 🖥️  See my portfolio at [https://portfolio-for-isaac.netlify.app/](https://portfolio-for-isaac.netlify.app/)
 * ✉️  You can contact me at [officialisaacjunior@gmail.com](mailto:officialisaacjunior@gmail.com)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Frontend projects with technologies like React, Remix, Next and Astro
